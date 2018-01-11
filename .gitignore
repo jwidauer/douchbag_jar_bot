@@ -52,3 +52,4 @@ game_state.json
 .idea
 ffmpeg.exe
 voice.ogg
+nohup.out
