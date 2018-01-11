@@ -1,0 +1,6 @@
+{
+    "players": ["PlayerName1", "PlayerName2", "PlayerName3"],
+    "usernames": ["Username1", "Username2", "Username3"],
+    "super_users": ["SUUsername"],
+    "token": "TOKEN"
+}

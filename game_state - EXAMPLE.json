@@ -1,0 +1,23 @@
+{
+  "PlayerName1": {
+    "quotes": [
+      "I did something."
+    ],
+    "username": "UserName1",
+    "score": 5.0
+  },
+  "PlayerName2": {
+    "quotes": [
+      "I did one thing.",
+      "I did another thing."
+    ],
+    "username": "UserName2",
+    "score": 7.0
+  },
+  "PlayerName3": {
+    "quotes": [
+    ],
+    "username": "UserName3",
+    "score": 0.0
+  }
+}
